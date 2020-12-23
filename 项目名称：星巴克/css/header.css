@@ -1,0 +1,79 @@
+.my_mar1{margin-left:45px;margin-right:45px;}
+#mallLogo {
+    float: left;
+    width: 162px;
+    padding-top: 0;
+    line-height: 18px;
+    position: relative;
+}
+.mlogo {
+    padding-right: 7px;
+    float: left;
+    padding-top: 20px;
+}
+.flagship-icon {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    height: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    background-color: #f4c985;
+    border: 1px solid #e7ba77;
+    border-radius: 2px;
+    color: #856651;
+    text-align: center;
+		font-size:10px;
+}
+.my_font{font-size:12px;}
+.my_img1{width:164px;height:45px;}
+.my_a{
+	width:18px;height:18px;
+}
+.slogo-triangle {
+    float: left;
+    display: block;
+    margin: 0 0 0 14px;
+    width: 6px;
+    height: 38px;
+    position: relative;
+}
+.icon-triangle {
+    border-color: #ccc #fff #fff;
+    border-style: solid;
+    border-width: 4px;
+    font-size: 0;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+.slogo-triangle2{
+	top: 12px;
+	width: 6px;
+	height: 38px;
+	position: relative;
+}
+.icon-triangle2 {
+    border-color: #ccc #fff #fff;
+    border-style: solid;
+    border-width: 4px;
+    font-size: 0;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    position: absolute;
+    right: 0;
+}
+.my_img2{width:23px;height:23px;}
+.border-danger{
+	border: 2px solid transparent;
+	font-size:12px;
+	}
+	.btn{border-radius:0;}
+	#mq {
+	    width: 320px!important;
+	    padding: 5px 3px 5px 5px;
+	}

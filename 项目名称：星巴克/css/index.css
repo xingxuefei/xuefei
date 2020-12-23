@@ -1,0 +1,135 @@
+.img1{
+	width:36px;
+	height:36px;
+}
+.navbar-toggler-icon{
+	border:0;
+}
+.border-right{
+	border-right:1px #ccc;
+}
+.display-1{
+	line-height:140%;
+	font-size:1.6rem;
+	font-weight:700;
+}
+.my_padding{
+	padding:267px 24px 160px 84px;
+}
+.my_button1{
+	color:#00A862;
+}
+.my_button2{
+	    background: none;
+	    border: 1px solid #00A862;
+	    border-radius: 48px;
+	    box-sizing: border-box;
+	    color: #00A862;
+	    display: inline-block;
+	    font-weight: 500;
+	    outline: none;
+	    overflow: hidden;
+	    padding: 6px 18px;
+	    position: relative;
+	    transition-duration: 0.1s;
+	    transition-property: background, border-color, color;
+}
+.my_margin{
+	margin:-3px 4px 0px 0px;
+}
+.carousel-control-next{
+	width:4%;height:20%;
+	top:40%;
+	border-radius:.25rem;
+	background-color:transparent;
+}
+.carousel-control-prev{right:5px;}
+.my_bg{
+	background-color:#EBEBEB;
+}
+.my_pad{
+	padding:36px 24px;
+}
+.my_mar{
+	margin-left:auto;
+	margin-right:auto;
+}
+.my_font{
+	font-size:22px;
+}
+.my_img{transition:1s;}
+.my_img:hover{transform: scale(0.9,0.9);}
+.my_style{
+	    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.12);
+	    box-sizing: border-box;
+	    background: #fff;
+	    border-radius: 2px;
+	    display: inline-block;
+	    position: relative;
+	    padding: 0 6px;
+	    text-align: center;
+	    width: 100%;
+			text-decoration:none;
+}
+.img2{
+			margin-top: -25px;
+	    height: 72px;
+	    margin-bottom: -24px;
+}
+.my_font2{font-size:12px;}
+.my_bg1{
+			background:url(../img/header/coffeehouse-coffee-cultivation-kv.jpg) no-repeat center center;
+			height: 168px;
+			width: calc(100% + 38px);
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			overflow: hidden;
+			margin: 0 auto 6px;
+			margin-top: -18px;
+			margin-left: -19px;
+			margin-right: -19px;
+}
+.tag{
+	    font-size: 1.4rem;
+	    background: #C2A661;
+	    color: #FFF;
+	    position: absolute;
+	    padding: 4px 12px;
+	    left: 0px;
+	    top: 6px;
+}
+.card{
+			background: #FFF;
+	    border-radius: 2px;
+	    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.12);
+	    overflow: hidden;
+	    position: relative;
+	    padding: 18px;
+			width:288px;
+			box-sizing: border-box;
+			display: inline-block;
+			margin-top: 12px;
+			margin-bottom: 12px;
+			margin-right:16px;
+}
+.my_bg2{background-image:url(../img/header/coffeehouse-4-fundamentals-kv.jpg);}
+.my_bg3{background-image:url(../img/header/coffeehouse-roast-story-kv.jpg);}
+.my_bg4{background-image:url(../img/header/coffeehouse-pour-over-kv.jpg);}
+.my_dis{display:block;}
+
+.my_style2{
+			border-radius: 50%;
+	    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.12);
+	    box-sizing: border-box;
+	    background: white;
+	    cursor: pointer;
+	    height: 28.8px;
+	    margin-top: -16px;
+	    position: absolute;
+	    padding: 2px 0px;
+	    text-align: center;
+	    top: 50%;
+	    width: 28.8px;
+	    z-index: 1;
+}
